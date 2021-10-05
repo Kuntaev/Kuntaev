@@ -24,6 +24,6 @@ ___
 <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔-green?style=for-the-badge&logo">
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔-green?style=for-the-badge&logo=mongoose">
-<img alt="bcrypt" src="https://img.shields.io/badge/eslint-green?style=for-the-badge&logo=eslint">
+<img alt="bcrypt" src="https://img.shields.io/badge/eslint-yellow?style=for-the-badge&logo=eslint">
 </div>
 
