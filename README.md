@@ -9,5 +9,5 @@ ___
 ### Мои проекты:
 #### Сайт для создания событий любителей футбола
 
-**[код](https://github.com/Kuntaev/projekt)**//
+**[код](https://github.com/Kuntaev/projekt)** /
 **[демо](https://github.com/Kuntaev/projekt)**    
