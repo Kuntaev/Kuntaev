@@ -32,6 +32,7 @@ ___
 <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
 <img alt="bcrypt" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
 </div>
+
 ![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge) 
 ![concurrently](https://img.shields.io/badge/-concurrently-black?style=for-the-badge)
 ![Material-UI](https://img.shields.io/badge/-Materilal--UI-blue?style=for-the-badge) 
