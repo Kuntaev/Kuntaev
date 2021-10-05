@@ -6,13 +6,9 @@ ___
 ___
 ### Мои проекты:
 
-#### Сайт для назначения матчей любителей футбола
-**[код](https://github.com/Kuntaev/projekt)** /
-**[демо](https://github.com/Kuntaev/projekt)**   
+#### Сайт для назначения матчей любителей футбола **[код](https://github.com/Kuntaev/projekt)** / **[демо](https://github.com/Kuntaev/projekt)**   
 
-#### Сайт для заказа кофе 
-**[код](https://github.com/Kuntaev/coffee-BackEnd)** /
-**[демо](https://github.com/Kuntaev/coffee-BackEnd)**   
+#### Сайт для заказа кофе  **[код](https://github.com/Kuntaev/coffee-BackEnd)** / **[демо](https://github.com/Kuntaev/coffee-BackEnd)**   
 ___
 Основной стек который я использую:
 <div>
