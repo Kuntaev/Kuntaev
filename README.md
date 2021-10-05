@@ -21,8 +21,6 @@ ___
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-yellow?style=for-the-badge&logo=MongoDB&logoColor=black" />
 <img alt="bcrypt" src="https://img.shields.io/badge/express-red?style=for-the-badge&logo=express">
-<img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
-<img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔-green?style=for-the-badge&logo">
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/eslint-yellow?style=for-the-badge&logo=eslint">
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-blue?style=for-the-badge&logo=redux&logoColor=white" />
@@ -33,8 +31,6 @@ ___
 <img alt="bcrypt" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
 </div>
 
-![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge) 
-![concurrently](https://img.shields.io/badge/-concurrently-black?style=for-the-badge)
 ![Material-UI](https://img.shields.io/badge/-Materilal--UI-blue?style=for-the-badge) 
 ![dotenv](https://img.shields.io/badge/-dotenv-red?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
