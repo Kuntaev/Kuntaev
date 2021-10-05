@@ -17,7 +17,7 @@ ___
 ___
 Основной стек который я использую:
 <div>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=green" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
 <img alt="bcrypt" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
