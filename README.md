@@ -17,13 +17,13 @@ ___
 ___
 Основной стек который я использую:
 <div>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=green" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
-<img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
-<img alt="bcrypt" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
+<img alt="React" src="https://img.shields.io/badge/-React-green?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white" />
+<img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-yellow?style=for-the-badge&logo=MongoDB&logoColor=black" />
+<img alt="bcrypt" src="https://img.shields.io/badge/express-red?style=for-the-badge&logo=express">
 <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔-green?style=for-the-badge&logo">
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔-green?style=for-the-badge&logo=mongoose">
-<img alt="bcrypt" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
+<img alt="bcrypt" src="https://img.shields.io/badge/eslint-green?style=for-the-badge&logo=eslint">
 </div>
 
