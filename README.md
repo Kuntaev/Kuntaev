@@ -29,6 +29,6 @@ ___
 ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
 ![express-handlebars](https://img.shields.io/badge/-express--handlebars-red?style=for-the-badge)
 ___
-Следующие шаги:
+### Следующие шаги:
 ![typescript](https://img.shields.io/badge/-typescript-green?style=for-the-badge) 
 ![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge) 
