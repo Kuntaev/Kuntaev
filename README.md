@@ -27,7 +27,6 @@ ___
 <img alt="bcrypt" src="https://img.shields.io/badge/dotenv-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/cors-✔-green?style=for-the-badge&logo=mongoose">
 </div>
----
 ### Следующие шаги:
 <div>
 <img alt="typescript" src="https://img.shields.io/badge/typescript-purple?style=for-the-badge&logo=Typescript&logoColor=red">
