@@ -22,7 +22,7 @@ ___
 <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
 <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-blue?style=for-the-badge&logo=Material-UI&logoColor=red" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-green?style=for-the-badge&logo=Webpack&logoColor=orange" />
-<img alt="express-handlebars" src="https://img.shields.io/badge/-express-handlebars-red?style=for-the-badge />
+<img alt="express-handlebars" src="https://img.shields.io/badge/-express--handlebars-red?style=for-the-badge />
 
 </div>
 <div>
