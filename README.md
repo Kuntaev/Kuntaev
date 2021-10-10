@@ -19,7 +19,26 @@ ___
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-purple?style=for-the-badge&logo=Redux&logoColor=430098" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-red?style=for-the-badge&logo=Prettier&logoColor=orange" />
 <img alt="bcrypt" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
-<img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-blue?style=for-the-badge&logo=Heroku&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-red?style=for-the-badge&logo=Node.js&logoColor=blue" />
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-green?style=for-the-badge&logo=HTML5&logoColor=purple" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-Github-red?style=for-the-badge&logo=Github&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-purple?style=for-the-badge&logo=Figma&logoColor=red" />
+  <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-green?style=for-the-badge&logo=Nodemon&logoColor=yellow" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=Postman&logoColor=white" />
+
+  <img alt="Express" src="https://img.shields.io/badge/-Express-yellow?style=for-the-badge&logo=Express&logoColor=red" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+    <img alt="Css3" src="https://img.shields.io/badge/-Css3-green?style=for-the-badge&logo=css3&logoColor=blue" />
+  <img alt="React-Hooks" src="https://img.shields.io/badge/-React-Hooks-purple?style=for-the-badge&logo=React-Hooks&logoColor=white" />
+  <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-purple?style=for-the-badge&logo=Eslint&logoColor=red" />
+
+
+
+
+
+
+<img alt="React-Router" src="https://img.shields.io/badge/-React_Router-red?style=for-the-badge&logo=react-router&logoColor=orange" />
 <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-blue?style=for-the-badge&logo=Material-UI&logoColor=red" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-green?style=for-the-badge&logo=Webpack&logoColor=orange" />
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔-green?style=for-the-badge&logo=mongoose">
