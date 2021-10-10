@@ -20,6 +20,9 @@ ___
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
 <img alt="bcrypt" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
 <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
+
+</div>
+<div>
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/dotenv-✔-green?style=for-the-badge&logo=mongoose">
