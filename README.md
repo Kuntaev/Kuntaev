@@ -30,8 +30,7 @@ ___
 ___
 ### Следующие шаги:
 <div>
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-purple?style=for-the-badge&logo=Typescript&logoColor=red">
-
+<img alt="typescript" src="https://img.shields.io/badge/typescript-purple?style=for-the-badge&logo=Typescript&logoColor=red">
+<img alt="vue.js" src="https://img.shields.io/badge/vue.js-red?style=for-the-badge&logo=Vue.js&logoColor=blue">
 </div>
-![typescript](https://img.shields.io/badge/-typescript-green?style=for-the-badge) 
-![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge) 
+
