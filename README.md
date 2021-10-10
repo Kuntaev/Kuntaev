@@ -36,10 +36,10 @@ ___
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-green?style=for-the-badge&logo=Webpack&logoColor=orange" />
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔-green?style=for-the-badge&logo=mongoose">
-<img alt="bcrypt" src="https://img.shields.io/badge/express handlebars-✔-green?style=for-the-badge&logo">
 <img alt="bcrypt" src="https://img.shields.io/badge/dotenv-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/cors-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/http_status-✔-green?style=for-the-badge&logo=http">
+<img alt="bcrypt" src="https://img.shields.io/badge/express-handlebars-✔-green?style=for-the-badge&logo">
 </div>
 
 ___
