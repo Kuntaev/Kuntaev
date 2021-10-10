@@ -22,8 +22,6 @@ ___
 <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
 <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-blue?style=for-the-badge&logo=Material-UI&logoColor=red" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-green?style=for-the-badge&logo=Webpack&logoColor=orange" />
-</div>
-<div>
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/dotenv-✔-green?style=for-the-badge&logo=mongoose">
@@ -31,5 +29,9 @@ ___
 </div>
 ___
 ### Следующие шаги:
+<div>
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-purple?style=for-the-badge&logo=Typescript&logoColor=red">
+
+</div>
 ![typescript](https://img.shields.io/badge/-typescript-green?style=for-the-badge) 
 ![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge) 
