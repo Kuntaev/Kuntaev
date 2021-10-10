@@ -22,8 +22,6 @@ ___
 <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
 <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-blue?style=for-the-badge&logo=Material-UI&logoColor=red" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-green?style=for-the-badge&logo=Webpack&logoColor=orange" />
-<img alt="express-handlebars" src="https://img.shields.io/badge/-express--handlebars-red?style=for-the-badge />
-
 </div>
 <div>
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔-green?style=for-the-badge&logo=mongoose">
@@ -31,10 +29,6 @@ ___
 <img alt="bcrypt" src="https://img.shields.io/badge/dotenv-✔-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/cors-✔-green?style=for-the-badge&logo=mongoose">
 </div>
-
-![Material-UI](https://img.shields.io/badge/-Materilal--UI-blue?style=for-the-badge) 
-![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
-![express-handlebars](https://img.shields.io/badge/-express--handlebars-red?style=for-the-badge)
 ___
 ### Следующие шаги:
 ![typescript](https://img.shields.io/badge/-typescript-green?style=for-the-badge) 
